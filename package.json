@@ -1,0 +1,31 @@
+{
+  "name": "eslinting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gitbiruk2010/eslint.git"
+  },
+  "keywords": [
+    "linting"
+  ],
+  "author": "biruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitbiruk2010/eslint/issues"
+  },
+  "homepage": "https://github.com/gitbiruk2010/eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-semistandard": "^17.0.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-vue": "^9.20.1"
+  }
+}
